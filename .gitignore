@@ -1,0 +1,8 @@
+
+node_modules/
+
+# archivo de variables de entorno
+.env
+
+# archivo base de datos
+db/*.json
